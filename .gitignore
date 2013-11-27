@@ -1,0 +1,7 @@
+# Eclipse Artifacts
+.cproject
+.project
+
+# Binary Artifacts
+Release
+Debug
